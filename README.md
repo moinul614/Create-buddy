@@ -1,1 +1,1 @@
-# Create-buddy
+https://yourusername.github.io/createbuddy/
